@@ -1,0 +1,9 @@
+/* Local fonts: Inter (variable) + Ubuntu Mono, no external CDN needed */
+@import url('fonts-local.css');
+
+body {
+  background-color: #fff;
+  font: 18px/1.5 "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+  color: #595959;
+  font-weight: 400;
+}
